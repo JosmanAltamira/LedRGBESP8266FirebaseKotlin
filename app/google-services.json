@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "265342673145",
+    "firebase_url": "https://led-rgb-esp8266-default-rtdb.firebaseio.com",
+    "project_id": "led-rgb-esp8266",
+    "storage_bucket": "led-rgb-esp8266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265342673145:android:de2f213b6cf38b10168228",
+        "android_client_info": {
+          "package_name": "com.example.ledrgbesp8266firebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265342673145-ncl5frv03boc9oigdrbce30gd6vso3mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPF81N5_RAkUofL7fYPYMeJAwUvH90A1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265342673145-ncl5frv03boc9oigdrbce30gd6vso3mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
